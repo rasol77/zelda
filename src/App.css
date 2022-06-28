@@ -17,7 +17,7 @@ img{
   
 }
 main {
-  /* background-image: url('./hd-the-legend-of-zelda-wallpaper-whatspaper-16.jpg'); */
+  background-color: #1d0118;
   flex-grow: 1;
 }
 .App > footer,
@@ -28,7 +28,7 @@ main {
 }
 
 .App > header h1{
-  font-size: 4rem; 
+  font-size: 3rem; 
   font-family: "MedievalSharp";
 }
 

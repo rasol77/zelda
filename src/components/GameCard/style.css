@@ -3,6 +3,7 @@
     border-radius: 10px;
     box-shadow: 0px 0px 20px rgb(10, 228, 10) ;
     height: 100%;
+    background-color: azure;
 }
 
 .gameCard > *:not(:last-child) {
